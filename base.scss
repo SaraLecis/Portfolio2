@@ -1,0 +1,26 @@
+
+
+
+$color-primary: rgba(7, 7, 7, 0.904);
+$color-secondary: rgba(100, 97, 103, 0.719);
+
+
+
+
+
+*{
+    margin: 0;
+    padding: 0;
+    background-color:$color-primary;
+}
+body main footer{
+    background-color: $color-primary;
+}
+footer{
+    position: absolute;
+    width: 1440px;
+    height: 71px;
+    left: 0px;
+    top: 370vh;
+    background: rgba(100, 97, 103, 0.57);
+}
