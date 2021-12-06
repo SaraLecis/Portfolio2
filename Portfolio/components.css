@@ -1,0 +1,43 @@
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 30px 10%;
+  background-color: #646167;
+  margin-top: 25px;
+  height: 25px;
+}
+
+.logo {
+  height: 84px;
+  width: 84px;
+}
+
+.navbar {
+  height: 25px;
+  width: 80%;
+  display: flex;
+  justify-content: space-evenly;
+  background-color: #646167;
+}
+
+.links {
+  text-decoration: none;
+  color: ivory;
+  display: flex;
+  justify-content: space-around;
+  width: 100%;
+  background-color: #646167;
+}
+
+a {
+  background-color: #646167;
+  color: ivory;
+  text-decoration: none;
+  font-size: 25px;
+  font-family: Cutive sans-serif;
+}
+
+main {
+  background-color: #646167;
+}

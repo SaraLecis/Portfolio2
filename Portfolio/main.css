@@ -1,0 +1,234 @@
+* {
+  margin: 0;
+  padding: 0;
+  background-color: rgba(7, 7, 7, 0.904);
+}
+
+body main footer {
+  background-color: rgba(7, 7, 7, 0.904);
+}
+
+footer {
+  position: absolute;
+  width: 1440px;
+  height: 71px;
+  left: 0px;
+  top: 370vh;
+  background: rgba(100, 97, 103, 0.57);
+}
+
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 30px 10%;
+  background-color: #646167;
+  margin-top: 25px;
+  height: 25px;
+}
+
+.logo {
+  height: 84px;
+  width: 84px;
+}
+
+.navbar {
+  height: 25px;
+  width: 80%;
+  display: flex;
+  justify-content: space-evenly;
+  background-color: #646167;
+}
+
+.links {
+  text-decoration: none;
+  color: ivory;
+  display: flex;
+  justify-content: space-around;
+  width: 100%;
+  background-color: #646167;
+}
+
+a {
+  background-color: #646167;
+  color: ivory;
+  text-decoration: none;
+  font-size: 25px;
+  font-family: Cutive sans-serif;
+}
+
+.landing {
+  display: flex;
+  background-color: rgba(7, 7, 7, 0.904);
+  align-items: center;
+  margin-top: 50px;
+}
+
+.Title {
+  display: flex;
+  flex-direction: column;
+  background-color: rgba(7, 7, 7, 0.904);
+  width: 55%;
+  height: 55%;
+  align-items: center;
+  margin-top: 20px;
+  margin-right: 80px;
+}
+
+.Poligon {
+  width: 90%;
+  height: 90%;
+  background-color: rgba(7, 7, 7, 0.904);
+  display: flex;
+  display: column;
+  align-items: center;
+}
+
+h2 {
+  color: ivory;
+  font-family: Cutive sans-serif;
+  font-size: 55px;
+  margin-top: 40px;
+  background-color: rgba(7, 7, 7, 0.904);
+}
+
+h4 {
+  color: ivory;
+  font-family: Cutive sans-serif;
+  font-size: 45px;
+  background-color: rgba(7, 7, 7, 0.904);
+}
+
+h6 {
+  color: ivory;
+  font-size: 18px;
+  margin-bottom: 20px;
+  background-color: rgba(7, 7, 7, 0.904);
+}
+
+.Landing-page {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-direction: row;
+  width: 100%;
+  height: 100vh;
+}
+
+.Projects {
+  height: 120vh;
+  width: 1200px;
+  border: ivory 2px solid;
+  background-color: transparent;
+  margin-left: 5vh;
+  border-top: none;
+  border-right: none;
+}
+
+.box {
+  height: 100vh;
+  width: 90%;
+  border: 2px solid ivory;
+  display: inline-block;
+  margin-left: 20px;
+  margin-top: -250px;
+  background-color: transparent;
+  border-top: none;
+  border-right: none;
+  border-bottom: none;
+}
+
+.vertical {
+  height: 60vh;
+  width: 100%;
+  border: 2px solid ivory;
+  display: block;
+  border-left: none;
+  border-top: none;
+  border-right: none;
+}
+
+.About {
+  position: absolute;
+  background-color: transparent;
+  margin-left: 1000px;
+  margin-top: -40px;
+  width: 50vh;
+  height: 50vh;
+}
+
+.Contact {
+  display: block;
+  border: ivory 2px solid;
+  height: 120vh;
+  width: 1200px;
+  margin-left: 16vh;
+  margin-top: 16vh;
+  border-top: none;
+  border-left: none;
+  border-bottom: none;
+}
+
+.vertical2 {
+  height: 60vh;
+  width: 100%;
+  border: 2px solid ivory;
+  display: block;
+  border-left: none;
+  border-top: none;
+  border-right: none;
+}
+
+.box2 {
+  height: 100vh;
+  width: 1180px;
+  border: 2px solid ivory;
+  display: inline-block;
+  margin-top: -380px;
+  background-color: transparent;
+  border-top: none;
+  border-left: none;
+  border-bottom: none;
+}
+
+.Sara {
+  border: 2px black solid;
+  border-radius: 120px;
+  width: 289px;
+  height: 414px;
+  position: absolute;
+  left: 160px;
+  top: 98px;
+  margin-left: 15px;
+  margin-top: 235vh;
+}
+
+.Hi {
+  color: ivory;
+  font-family: Cutive sans-serif;
+  font-size: 38px;
+  background-color: rgba(7, 7, 7, 0.904);
+  margin-left: 50vh;
+  margin-right: 20vh;
+  text-align: center;
+  margin-top: 150px;
+}
+
+.Iam {
+  color: ivory;
+  font-family: Cutive sans-serif;
+  font-size: 35px;
+  background-color: rgba(7, 7, 7, 0.904);
+  margin-left: 50vh;
+  margin-right: 20vh;
+  text-align: center;
+  margin-top: 20px;
+}
+
+i {
+  color: ivory;
+  height: 50px;
+  width: 5vh;
+  margin-top: 55vh;
+  margin-left: 30vh;
+}
